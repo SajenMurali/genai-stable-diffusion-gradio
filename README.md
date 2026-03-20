@@ -1,9 +1,4 @@
 ## EX07 - Prototype Development for Image Generation Using the Stable Diffusion Model and Gradio Framework
-
-```
-Name : MOHAN R
-Reg No : 212224230168
-```
 ### AIM:
 To design and deploy a prototype application for image generation utilizing the Stable Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
 
