@@ -81,11 +81,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 
 ### OUTPUT:
 
-<img width="1097" height="619" alt="Screenshot 2025-11-14 224550" src="https://github.com/user-attachments/assets/c3e69b42-d6c4-4cc7-916b-11d6a36b9f46" />
-
-<img width="1143" height="620" alt="Screenshot 2025-11-14 224015" src="https://github.com/user-attachments/assets/114b023a-98b3-40e4-af0e-cc4a40cce8bc" />
-
-<img width="1151" height="625" alt="Screenshot 2025-11-14 224524" src="https://github.com/user-attachments/assets/048be6a2-e2b7-44a5-8665-e347a858bc8a" />
+![image alt](https://github.com/SajenMurali/genai-stable-diffusion-gradio/blob/9209c901fee1b411ac15c035e2d27b979a19928a/Screenshot%202026-03-22%20103944.png)
+![image alt](https://github.com/SajenMurali/genai-stable-diffusion-gradio/blob/9209c901fee1b411ac15c035e2d27b979a19928a/Screenshot%202026-03-22%20104023.png)
 
 ### RESULT:
 The prototype successfully demonstrates text-to-image generation using Stable Diffusion, providing an interactive and user-friendly interface. Users can modify parameters to influence the output quality and style.
